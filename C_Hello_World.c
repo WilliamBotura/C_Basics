@@ -11,6 +11,7 @@
 //}
 
 //my method
-void main() {
+void main() 
+{
 	printf("Hello World!");
 }

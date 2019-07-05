@@ -18,5 +18,8 @@
     <ClCompile Include="C_Hello_World.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Adding_New_Prints.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
