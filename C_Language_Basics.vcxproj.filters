@@ -21,5 +21,8 @@
     <ClCompile Include="Adding_New_Prints.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Loops_Repeating_Structures.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
