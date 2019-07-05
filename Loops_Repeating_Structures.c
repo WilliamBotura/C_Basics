@@ -3,19 +3,19 @@
 //Using repeating structures for the first time in C
 
 //FOR
-//int main(void) 
-//{
-//	for (int i = 0; i < 5; i++)
-//	{
-//		printf("First time usign for in C!\n");
-//	}
-//	return 0;
-//	//the FOR structure in C is the same structure used in C#
-//}
+int firstFor(void) 
+{
+	for (int i = 0; i < 5; i++)
+	{
+		printf("First time usign for in C!\n");
+	}
+	return 0;
+	//the FOR structure in C is the same structure used in C#
+}
 
 //More then one FOR:
 
-int main(void) 
+int multipleFor(void) 
 {
 	for (int i = 0; i < 4; i++)
 	{

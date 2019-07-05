@@ -24,5 +24,8 @@
     <ClCompile Include="Loops_Repeating_Structures.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
