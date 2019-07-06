@@ -10,6 +10,8 @@ int main(void)
 	//multipleLinesOnePrintf();
 	//quoteOnComment();
 	//firstFor();
-	multipleFor();
+	//multipleFor();
+	//printInteger();
+	Balance();
 	return 0;
 }
