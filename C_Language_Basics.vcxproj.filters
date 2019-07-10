@@ -30,5 +30,11 @@
     <ClCompile Include="Integer_Print.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Variables_and_Loops.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Read_Input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

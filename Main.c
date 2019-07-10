@@ -12,6 +12,9 @@ int main(void)
 	//firstFor();
 	//multipleFor();
 	//printInteger();
-	Balance();
+	//Balance();
+	//CollectExercise();
+	//PowarBasis();
+	ReadInput();
 	return 0;
 }

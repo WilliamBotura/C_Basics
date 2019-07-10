@@ -21,6 +21,6 @@ int Balance(void)
 	balance = balance + 60;
 	printf("your balance is %d dollars\n", balance);
 	//-30
-	balance = balance-30;
+	balance = balance - 30;
 	printf("your balance is %d dollars\n", balance);
 }
