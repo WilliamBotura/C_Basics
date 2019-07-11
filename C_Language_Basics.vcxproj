@@ -128,6 +128,7 @@
     <ClCompile Include="Integer_Print.c" />
     <ClCompile Include="Loops_Repeating_Structures.c" />
     <ClCompile Include="Main.c" />
+    <ClCompile Include="New_Print_Formats.c" />
     <ClCompile Include="Read_Input.c" />
     <ClCompile Include="Variables_and_Loops.c" />
   </ItemGroup>

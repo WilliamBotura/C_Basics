@@ -5,16 +5,27 @@
 
 int main(void) 
 {
+	//1.1
+
 	//helloWorldEdX();
 	//printMultipleLines();
 	//multipleLinesOnePrintf();
 	//quoteOnComment();
+
+	//1.2
+
 	//firstFor();
 	//multipleFor();
 	//printInteger();
 	//Balance();
 	//CollectExercise();
 	//PowarBasis();
-	ReadInput();
+	//ReadInput();
+	//MultipleScan();
+	//ScanOnLoop();
+	//RobotPowerCalculator();
+
+	//1.3
+	PrintChar();
 	return 0;
 }

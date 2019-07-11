@@ -36,5 +36,8 @@
     <ClCompile Include="Read_Input.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="New_Print_Formats.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

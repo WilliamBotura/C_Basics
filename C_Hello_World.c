@@ -7,9 +7,3 @@ int helloWorldEdX(void)
 	printf("Hello Wold");
 	return 0;
 }
-
-//my method
-//void main() 
-//{
-//	printf("Hello World!");
-//}
