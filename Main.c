@@ -26,6 +26,7 @@ int main(void)
 	//RobotPowerCalculator();
 
 	//1.3
-	PrintChar();
+	//PrintChar();
+	ReadCharUser();
 	return 0;
 }
